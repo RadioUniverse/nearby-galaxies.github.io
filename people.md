@@ -22,6 +22,11 @@ the Spitzer/IRAC instrument team and worked on a variety of science topics inclu
 
 Here are my [CV](https://github.com/PBarmby/cv/blob/master/pbarmby_cv.pdf) and [blog](http://pbarmby.github.io).
 
+## Mark Gorski (postdoc)
+I'm interested in studying the interstellar medium (ISM) in nearby galaxies. Nearby galaxies permit access to weak, but diagnostically important tracers that can be applied to a much wider range of galactic star formation rates and environments.  I'm particularly interested in the physical connection between the ISM and star formation — how are molecular clouds formed, how they turn molecular gas into stars, what is the effect of mechanical and radiative feed-back processes?
+
+I got my PhD from the University of New Mexico in 2017. I split my time between UNM and the National Radio Astronomy Observatory (NRAO), Socorro. I worked on a suvey called the Survey of Water and Ammonia in Nearby galaxies (SWAN). You can find more about my research and my CV on my [webpage](https://sites.google.com/site/astrogorski/).
+
 ## Robin Arnason (PhD 2018)
 
 <img align="right" src="{{ site.url }}/images/robin.jpg">
